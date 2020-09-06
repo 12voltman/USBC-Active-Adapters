@@ -1,0 +1,35 @@
+[Eagle]
+Version="09 00 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/12voltman.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/adafruit.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Passives.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Retired.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/Max Robinson/Documents/eagle/customlibraries/MAXLIBRARIES/SparkFun-Eagle-Libraries-master/SparkFun-Sensors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="5640 1440"
+Window="Win_1"
